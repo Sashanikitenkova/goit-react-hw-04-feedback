@@ -1,0 +1,8 @@
+.buttonFeedback {
+    margin: 10px;
+    display: flex;
+}
+
+.button {
+    margin-left: 5px;
+}
